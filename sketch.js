@@ -3,7 +3,7 @@ var grey  = 127;
 var white = 255;
 
 var dimension;
-var weight = 0.002;
+var weight = 0.005;
 var bigRadius = 0.35;
 var littleRadius = 0.0905;
 
